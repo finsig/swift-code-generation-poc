@@ -5,6 +5,7 @@ The code generator outputs <a href="https://www.swift.org/documentation/api-desi
 * Ad hoc changes are easy to make. The modularity of FRAME is preserved in the Swift language source code.
 * The output is coupled to the metadata rather than the project maintainer. Client APIs can be generated for custom pallets with minimal additional effort.
 
-This is a naive proof of concept based on the factory design pattern and will be deprecated.
+This is a naive proof of concept based on the factory design pattern that will be deprecated.
 
-**Disclaimer** This is proof of concept code used to think about high level solution design. It may contain incomplete thoughts. The code should not be used as is.
+
+:warning: This is proof of concept code used to think about high level solution design. It may contain incomplete thoughts. The code should not be used as is.
