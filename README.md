@@ -8,4 +8,4 @@ The code generator outputs <a href="https://www.swift.org/documentation/api-desi
 This is a naive proof of concept based on the factory design pattern that will be deprecated.
 
 
-:warning: This is proof of concept code used to think about high level solution design. It may contain incomplete thoughts. The code should not be used as is.
+:warning: DISCLAIMER: This is proof of concept code used to think about high level solution design. It may contain incomplete thoughts. The code should not be used as is.
