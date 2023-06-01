@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/attaswift/BigInt.git",
+        "state": {
+          "branch": null,
+          "revision": "0ed110f7555c34ff468e72e1686e59721f2b0da6",
+          "version": "5.3.0"
+        }
+      },
+      {
+        "package": "swift-scale-codec",
+        "repositoryURL": "https://github.com/tesseract-one/swift-scale-codec.git",
+        "state": {
+          "branch": null,
+          "revision": "bd39b2d68d87126a61b62a071ee4c065e2a1fe30",
+          "version": "0.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
